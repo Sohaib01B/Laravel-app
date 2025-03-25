@@ -17,8 +17,6 @@ Les interfaces du mini-projet.
 
 ![Image](https://github.com/user-attachments/assets/87507227-76fb-404f-8d9e-d33396b9a175)
 
-![Image](https://github.com/user-attachments/assets/c600306a-6f27-4303-a74e-0d613f1c2b0e)
-
 ![Image](https://github.com/user-attachments/assets/afd8ef3d-22e7-40ee-bd8d-aca8a51a5016)
 
 ![Image](https://github.com/user-attachments/assets/f91be036-e885-440a-8c2c-56ccf77352c4)
